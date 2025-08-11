@@ -15,6 +15,9 @@ This project implements several JavaScript functions that cover factorial calcul
 - JavaScript (ES6)
 - Node.js
 
+  ## View
+  [View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project3)
+
 ## How to Run
 1. Clone the repository or download the project files.
 2. Open a terminal in the project directory.
