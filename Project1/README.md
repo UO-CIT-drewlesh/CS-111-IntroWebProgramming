@@ -6,3 +6,6 @@ This project demonstrates the creation and use of basic JavaScript functions to 
 - Writing and calling JavaScript Functions
 - Performing arithmetic operations
 - Using 'console.log()' for output
+
+## View
+[View Repo](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project1/)
