@@ -1,4 +1,4 @@
-# Project 7 – Colorful Strings with Random Colors
+# Project 6 – Colorful Strings with Random Colors
 
 ## Overview
 This project prompts the user repeatedly to enter strings, which are then displayed on the webpage in different random colors and with the first letter capitalized. It demonstrates dynamic user input handling, string manipulation, and DOM updates.
@@ -20,7 +20,7 @@ This project prompts the user repeatedly to enter strings, which are then displa
 5. All colored strings are concatenated with line breaks and rendered inside the `#output` div on the page.
 
 ## Live Demo
-[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-Project7/)
+[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-Project6/)
 
 ## Repository
-[View Project Repository](https://github.com/yourusername/CIS-111-Project7)
+[View Project Repository](https://github.com/yourusername/CIS-111-Project6)
