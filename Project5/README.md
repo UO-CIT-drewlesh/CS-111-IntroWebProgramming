@@ -1,4 +1,4 @@
-# Project 6 – Countdown Timer with Blast-Off Animation
+# Project 5 – Countdown Timer with Blast-Off Animation
 
 ## Overview
 This project creates an interactive countdown timer that displays numbers on the webpage and triggers a "Blast-Off!" message along with an animated GIF when the timer reaches zero. It uses DOM manipulation, timing functions, and basic CSS styling to enhance the user experience.
@@ -21,7 +21,7 @@ This project creates an interactive countdown timer that displays numbers on the
 4. Styling is applied so the GIF remains hidden until the final moment.
 
 ## Live Demo
-[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-110-FluencyWithInfoTech/Project6/)
+[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-110-FluencyWithInfoTech/Project5/)
 
 ## Repository
-[View Project Repository](https://github.com/yourusername/Project6)
+[View Project Repository](https://github.com/yourusername/Project5)
