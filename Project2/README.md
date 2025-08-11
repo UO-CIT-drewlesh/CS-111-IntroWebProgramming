@@ -17,6 +17,9 @@ It demonstrates function creation, loops, conditional statements, and date manip
 - JavaScript (ES6)
 - Node.js
 
+  ## View
+  [View Repo](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project2/)
+
 ## How to Run
 1. Clone the repository or download the project files.
 2. Open a terminal in the project directory.
