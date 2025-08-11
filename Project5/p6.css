@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    text-align: center;
+    background-color:floralwhite;
+}
+
+p {
+    margin: auto;
+    padding: 6px;
+    color: #737CF5;
+}
+
+/*Why can't I center the image within the body tag? margin must be declared in the img tag.*/
+img {
+    margin: auto;
+    border-radius: 10px;
+    padding: 3px;
+    max-width: 100%;
+}
+img:hover{
+    width: 60%;
+
+    /*Remembered this with help from w3schools (https://www.w3schools.com/CSSref/css3_pr_box-shadow.php)*/
+    box-shadow: 70px -15px #737CF5; 
+}
+
+
