@@ -1,4 +1,4 @@
-# Project 2
+# Project 2 - JavaScript Functions
 
 ## Overview
 This project consists of several JavaScript functions that perform calculations and checks related to everyday problem-solving, including pizza price-per-square-inch calculations, numeric validation, leap year checks, and determining the number of days in a month.  
@@ -12,10 +12,6 @@ It demonstrates function creation, loops, conditional statements, and date manip
 - Using `if` statements to handle special cases (e.g., leap years)
 - Working with the `Date` object in JavaScript
 - Logging and formatting output with `console.log()` and `.toFixed()`
-
-## Technologies Used
-- JavaScript (ES6)
-- Node.js
 
   ## View
 [View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project2)

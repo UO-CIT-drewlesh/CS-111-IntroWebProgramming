@@ -1,23 +1,26 @@
-# Project 7 – Favorite Music Prompt Collector
+# Project 7 – Button Interactions and Mouse Tracking
 
 ## Overview
-This project prompts the user to input their favorite music details — artist, song, and year — repeatedly until they choose to stop. The collected data is then displayed on the webpage and logged in the console in a formatted style.
+This project demonstrates DOM manipulation and event handling in JavaScript. Users can:
+- Click a button to increment a counter.
+- Change the webpage’s background color randomly.
+- See real-time mouse position coordinates on the screen.
+- Log and display the x/y positions of mouse clicks dynamically.
 
 ## Skills Learned
-- Collecting multiple user inputs with prompts inside loops
-- Storing user inputs in an array of objects dynamically
-- Validating and parsing input data types (e.g., integers for year)
-- Using nested loops to format and display collected data
-- Manipulating the DOM to dynamically update HTML content
-- Combining JavaScript, HTML, and CSS for interactive webpages
+- Adding event listeners to DOM elements (`click`, `mousemove`, `mouseup`, `load`)
+- Updating HTML content dynamically using `textContent` and `innerHTML`
+- Generating random numbers within a specified range
+- Creating and appending new elements to the DOM
+- Storing and managing user interaction data in arrays
+- Combining HTML, CSS, and JavaScript for interactive pages
 
 ## How It Works
-1. The `startup()` function initializes a configuration array defining prompt questions and data types.
-2. It prompts the user for artist, song, and year using this configuration.
-3. User responses are stored as objects inside an array.
-4. The user is repeatedly asked if they want to add more entries.
-5. The collected data is displayed in the page’s `#output` div, formatted with labels and line breaks.
-6. The same output is also logged to the browser console for verification.
+1. The `startup()` function adds event listeners to buttons and the page body.
+2. Clicking **Click Me** increments a counter displayed in `#timesClickedSpan`.
+3. Clicking **Change Background Color** selects a random color from a predefined array and updates the page background.
+4. Moving the mouse updates the current position (x/y) in `#mousePositionSpan`.
+5. Clicking anywhere on the page stores the click coordinates in `_mouseClickedPositions`, logs them to the console, and appends them as new `div` elements inside `#mouseClickedPositionsDiv`.
 
 ## Live Demo
 [View Live Webpage](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project7/)

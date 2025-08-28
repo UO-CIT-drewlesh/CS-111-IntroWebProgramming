@@ -1,23 +1,23 @@
-# Project 6 – Colorful Strings with Random Colors
+# Project 6 – Favorite Music Prompt Collector
 
 ## Overview
-This project prompts the user repeatedly to enter strings, which are then displayed on the webpage in different random colors and with the first letter capitalized. It demonstrates dynamic user input handling, string manipulation, and DOM updates.
+This project prompts the user to input their favorite music details — artist, song, and year — repeatedly until they choose to stop. The collected data is then displayed on the webpage and logged in the console in a formatted style.
 
 ## Skills Learned
-- Using prompt loops to collect user input until a blank entry
-- Manipulating arrays and using `.map()` for transformations
-- Creating and using helper functions (e.g., capitalize first letter)
-- Generating random numbers to select random colors
-- Dynamically generating HTML content with inline styles
-- Updating the DOM using `innerHTML`
-- Combining JavaScript, HTML, and CSS in a simple interactive app
+- Collecting multiple user inputs with prompts inside loops
+- Storing user inputs in an array of objects dynamically
+- Validating and parsing input data types (e.g., integers for year)
+- Using nested loops to format and display collected data
+- Manipulating the DOM to dynamically update HTML content
+- Combining JavaScript, HTML, and CSS for interactive webpages
 
 ## How It Works
-1. The `startup()` function prompts the user to input strings repeatedly.
-2. Inputs are stored in an array until the user submits a blank input.
-3. Each input string is transformed to capitalize the first letter.
-4. Each transformed string is wrapped in a `<span>` with a randomly assigned color from a predefined list.
-5. All colored strings are concatenated with line breaks and rendered inside the `#output` div on the page.
+1. The `startup()` function initializes a configuration array defining prompt questions and data types.
+2. It prompts the user for artist, song, and year using this configuration.
+3. User responses are stored as objects inside an array.
+4. The user is repeatedly asked if they want to add more entries.
+5. The collected data is displayed in the page’s `#output` div, formatted with labels and line breaks.
+6. The same output is also logged to the browser console for verification.
 
 ## Live Demo
 [View Live Webpage](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project6/)

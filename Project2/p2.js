@@ -1,12 +1,10 @@
 <<<<<<< HEAD
 /*
-Description: CIS111 - Project 4
+Description: CIS111 - Project 2
 Author: Drew Lesh
 10/14/22
 */
 
-
-    //Part 3:
 
 function pizzaPSI(diameter, cost) {
     //calculation: area of pizza
@@ -131,13 +129,11 @@ console.log(2023 + ", " + 8 + ": " + getDaysInMonth(2023, 8));
 console.log(2024 + ", " + 2 + ": " + getDaysInMonth(2024, 2));
 =======
 /*
-Description: CIS111 - Project 4
+Description: CIS111 - Project 2
 Author: Drew Lesh
 10/14/22
 */
 
-
-    //Part 3:
 
 function pizzaPSI(diameter, cost) {
     //calculation: area of pizza
