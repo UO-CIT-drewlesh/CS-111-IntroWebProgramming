@@ -12,6 +12,12 @@ CS-111 introduces core web programming principles, focusing on JavaScript to bui
 
 ## Projects Overview
 
+---
+
+## Repository
+[View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming)
+
+---
 
 ## Key Skills Developed
 - JavaScript fundamentals: variables, functions, loops, and conditionals
