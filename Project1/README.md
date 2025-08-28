@@ -8,4 +8,4 @@ This project demonstrates the creation and use of basic JavaScript functions to 
 - Using 'console.log()' for output
 
 ## View
-[View Repo](https://UO-CIT-drewlesh/CS-111-IntroWebProgramming/Project1/)
+[View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project1)

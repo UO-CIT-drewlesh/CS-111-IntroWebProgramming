@@ -22,4 +22,4 @@ The computer was able to guess 47 in 28 guesses
 The computer was able to guess 33 in an average of 50 guesses
 ```
 ## View
-[View Repo](https://UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project3/)
+[View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project3)

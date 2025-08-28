@@ -20,7 +20,7 @@ This project prompts the user to input their favorite music details — artist, 
 6. The same output is also logged to the browser console for verification.
 
 ## Live Demo
-[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-Project7/)
+[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-IntroWebProgramming/Project7/)
 
 ## Repository
-[View Project Repository](https://github.com/UO-CIT-drewlesh/tree/main/CIS-111-Project7)
+[View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project7)

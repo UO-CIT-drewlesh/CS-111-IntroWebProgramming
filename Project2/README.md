@@ -18,7 +18,7 @@ It demonstrates function creation, loops, conditional statements, and date manip
 - Node.js
 
   ## View
-  [View Repo](https://UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project2/)
+[View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project2)
 
 ## How to Run
 1. Clone the repository or download the project files.
