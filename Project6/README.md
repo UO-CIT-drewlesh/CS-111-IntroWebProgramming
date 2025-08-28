@@ -23,4 +23,4 @@ This project prompts the user repeatedly to enter strings, which are then displa
 [View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-Project6/)
 
 ## Repository
-[View Project Repository](https://github.com/yourusername/CIS-111-Project6)
+[View Project Repository](https://github.com/UO-CIT-drewlesh/tree/main/CIS-111-Project6)

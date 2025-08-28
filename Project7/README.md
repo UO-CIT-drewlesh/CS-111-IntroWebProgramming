@@ -23,4 +23,4 @@ This project prompts the user to input their favorite music details — artist, 
 [View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-Project7/)
 
 ## Repository
-[View Project Repository](https://github.com/yourusername/CIS-111-Project7)
+[View Project Repository](https://github.com/UO-CIT-drewlesh/tree/main/CIS-111-Project7)

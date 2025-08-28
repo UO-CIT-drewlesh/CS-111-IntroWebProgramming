@@ -1,5 +1,5 @@
 /*
-Description: CIS 111 Project 7 - Adding Random Colors to the input of the users prompt
+Description: CIS 111 Project 5 - Adding Random Colors to the input of the users prompt
 Author: Drew Lesh
 11.1.22
 */

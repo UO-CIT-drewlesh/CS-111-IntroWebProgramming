@@ -18,11 +18,11 @@ It demonstrates function creation, loops, conditional statements, and date manip
 - Node.js
 
   ## View
-  [View Repo](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project2/)
+  [View Repo](https://UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project2/)
 
 ## How to Run
 1. Clone the repository or download the project files.
 2. Open a terminal in the project directory.
 3. Run the following command:
    ```bash
-   node p4.js
+   node p2.js

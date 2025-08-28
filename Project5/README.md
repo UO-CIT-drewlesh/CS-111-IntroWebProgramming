@@ -24,4 +24,4 @@ This project creates an interactive countdown timer that displays numbers on the
 [View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-110-FluencyWithInfoTech/Project5/)
 
 ## Repository
-[View Project Repository](https://github.com/yourusername/Project5)
+[View Project Repository](https://github.com/UO-CIT-drewlesh/tree/main/Project5)
