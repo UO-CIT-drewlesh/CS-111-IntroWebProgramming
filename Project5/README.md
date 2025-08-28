@@ -21,7 +21,7 @@ This project creates an interactive countdown timer that displays numbers on the
 4. Styling is applied so the GIF remains hidden until the final moment.
 
 ## Live Demo
-[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-IntroWebProgramming/Project5/)
+[View Live Webpage](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project5/)
 
 ## Repository
 [View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project5)

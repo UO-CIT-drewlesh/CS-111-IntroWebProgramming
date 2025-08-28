@@ -20,7 +20,7 @@ This project prompts the user repeatedly to enter strings, which are then displa
 5. All colored strings are concatenated with line breaks and rendered inside the `#output` div on the page.
 
 ## Live Demo
-[View Live Webpage](https://uo-cit-drewlesh.github.io/CIS-111-IntroWebProgramming/Project6/)
+[View Live Webpage](https://uo-cit-drewlesh.github.io/CS-111-IntroWebProgramming/Project6/)
 
 ## Repository
 [View Repo](https://github.com/UO-CIT-drewlesh/CS-111-IntroWebProgramming/tree/main/Project6)
